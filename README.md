@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matheus+Llobregat!;" />
 </h1>
 
-<h3 align="center">A passionate software engineer from Brazil</h3>
+<h3 align="center">A passionate Staff Software Engineer from Brazil</h3>
 
 <br/>
 
