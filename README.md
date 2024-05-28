@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Itaú Unibanco**
  
- 🌱 I’m currently learning **Golang, Spring**
+ 🌱 I’m currently learning **Golang**
 
  </div>
  
